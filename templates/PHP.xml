@@ -1,0 +1,19 @@
+<templateSet group="PHP">
+  <template name="fore" value="foreach ($ITERABLE$ as $$$VAR_VALUE$) {&#10;    $END$&#10;}&#10;" description="foreach(iterable_expr as $value) {...}" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="forek" value="foreach ($ITERABLE$ as $$$VAR_KEY$ =&gt; $$$VAR_VALUE$) {&#10;    $END$&#10;}&#10;" description="foreach(iterable_expr as $key =&gt; $value) {...}" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
+    <variable name="VAR_KEY" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="forl" value="for ($i = 1; $i &lt;= $VAR_VALUE$; $i++)&#10;{&#10;  $END$&#10;}" description="for ($i = 1; $i &lt;= 10; $i++)" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_VALUE" expression="" defaultValue="10" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

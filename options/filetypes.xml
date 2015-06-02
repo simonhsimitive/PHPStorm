@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping ext="info" type="Ini" />
+      <mapping pattern="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="YAML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="9" />
+  </component>
+</application>

@@ -1,0 +1,43 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="300" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="438" y="248" />
+    <location key="#Directories.0.0.1440.900" x="494" y="206" />
+    <location key="OptionsEditor.0.0.1440.900" x="120" y="22" />
+    <location key="#JSHint.0.0.1440.900" x="308" y="95" />
+    <location key="#JSLint.0.0.1440.900" x="435" y="155" />
+    <location key="#Inspections.0.0.1440.900" x="358" y="136" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="425" y="255" />
+    <location key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.1440.900" x="531" y="267" />
+    <location key="#TODO.0.0.1440.900" x="482" y="0" />
+    <location key="NewPhpFileDialog.0.0.1440.900" x="539" y="381" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1440.900" x="457" y="303" />
+    <location key="EditParametersPopupWindow.0.0.1440.900" x="498" y="390" />
+    <location key="scopes.0.0.1440.900" x="508" y="311" />
+    <location key="GitCloneDialog.0.0.1440.900" x="528" y="303" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1440.900" x="497" y="314" />
+    <location key="#Drupal.0.0.1440.900" x="542" y="306" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="461" y="343" />
+    <location key="#PHP.0.0.1440.900" x="469" y="102" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1440.900" x="380" y="214" />
+    <location key="StructurePopup.0.0.1440.900" x="493" y="230" />
+    <location key="ProcessPopupWindow.0.0.1440.900" x="1075" y="711" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="184" y="111" />
+    <location key="#Browse_Repositories.0.0.1440.900" x="308" y="111" />
+    <location key="#Plugins.0.0.1440.900" x="308" y="111" />
+    <location key="NewPhpClassDialog.0.0.1440.900" x="546" y="283" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="523" y="177" />
+    <location key="Zend2PathDialog.0.0.1440.900" x="533" y="351" />
+    <location key="findTextDialog.0.0.1440.900" x="514" y="218" />
+    <location key="#Interpreters.0.0.1440.900" x="308" y="81" />
+    <location key="#DashboardController.php.0.0.1440.900" x="459" y="149" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1440.900" x="482" y="159" />
+    <size key="scopes.0.0.1440.900" width="607" height="398" />
+    <size key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.1440.900" width="401" height="365" />
+    <size key="GitCloneDialog.0.0.1440.900" width="538" height="188" />
+    <size key="StructurePopup.0.0.1440.900" width="454" height="441" />
+    <size key="ProcessPopupWindow.0.0.1440.900" width="199" height="105" />
+    <size key="OptionsEditor.0.0.1440.900" width="1200" height="796" />
+    <size key="Zend2PathDialog.0.0.1440.900" width="374" height="158" />
+  </component>
+</application>

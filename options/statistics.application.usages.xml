@@ -1,0 +1,108 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Drupal Support">
+      <project id="simitive" values="Drupal_7" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="simitive" values="not installed" />
+      <project id="dashboard" values="not installed" />
+      <project id="zf-apigility-skeleton" values="not installed" />
+      <project id="custom" values="not installed" />
+      <project id="bdd" values="not installed" />
+    </group>
+    <group name="vcs">
+      <project id="simitive" values="Git" />
+      <project id="dashboard" values="Git" />
+      <project id="zf-apigility-skeleton" values="Git" />
+    </group>
+    <group name="deployment server">
+      <project id="simitive" values="MOUNT" />
+      <project id="dashboard" values="MOUNT" />
+      <project id="zf-apigility-skeleton" values="MOUNT" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="simitive" values="0" />
+      <project id="dashboard" values="0" />
+      <project id="zf-apigility-skeleton" values="0" />
+      <project id="custom" values="0" />
+      <project id="bdd" values="0" />
+    </group>
+    <group name="php-servers">
+      <project id="simitive" values="0" />
+      <project id="dashboard" values="0" />
+      <project id="zf-apigility-skeleton" values="0" />
+      <project id="custom" values="0" />
+      <project id="bdd" values="0" />
+    </group>
+    <group name="php-interpreters">
+      <project id="simitive" values="0" />
+      <project id="dashboard" values="0" />
+      <project id="zf-apigility-skeleton" values="0" />
+      <project id="custom" values="0" />
+      <project id="bdd" values="0" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="simitive" values="DEFAULT" />
+      <project id="dashboard" values="DEFAULT" />
+      <project id="zf-apigility-skeleton" values="DEFAULT" />
+      <project id="custom" values="DEFAULT" />
+      <project id="bdd" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="simitive" values="Project,Project" />
+      <project id="dashboard" values="Project,Project" />
+      <project id="zf-apigility-skeleton" values="Project,Project" />
+      <project id="custom" values="Project,Project" />
+      <project id="bdd" values="Project,Project" />
+    </group>
+    <group name="file-type">
+      <project id="simitive" values="HTML,PHP,PLAIN_TEXT,LESS,PATCH,HAML,UNKNOWN,htaccess,XML,SourceMap,ARCHIVE,CSS,CoffeeScript,YAML,SCSS,JSHint,SQL,JavaScript,Images,ReST,SmartyConfig,Ini,Locale,Native,JSON,SASS" />
+      <project id="dashboard" values="PLAIN_TEXT,UNKNOWN,JSCS,Images,TypeScript,ESLint,PATCH,JSHint,Ini,ARCHIVE,JSON,SQL,XML,PHAR,SmartyConfig,C++,Cucumber,HTML,JavaScript,YAML,LESS,CoffeeScript,PHP,ReST,SourceMap,Smarty,Locale,htaccess,Native,CSS" />
+      <project id="zf-apigility-skeleton" values="PHP,XML,YAML,htaccess,SQL,JavaScript,HTML,PHAR,JSON,Images,SQLite Database,CSS,LESS,SourceMap,Locale,PLAIN_TEXT,Perl,UNKNOWN,ReST" />
+      <project id="custom" values="CSS,JSON,C++,PATCH,YAML,HTML,PLAIN_TEXT,ESLint,CoffeeScript,SourceMap,Images,UNKNOWN,JavaScript,XML,htaccess,SCSS,Native,JSHint,SmartyConfig,PHP" />
+      <project id="bdd" values="JavaScript,Ini,PLAIN_TEXT,ReST,JSON,Cucumber,Smarty,PHAR,TypeScript,HTML,PHP,UNKNOWN,YAML,Locale,XML" />
+    </group>
+    <group name="module type">
+      <project id="simitive" values="WEB_MODULE" />
+      <project id="dashboard" values="WEB_MODULE" />
+      <project id="zf-apigility-skeleton" values="WEB_MODULE" />
+      <project id="custom" values="WEB_MODULE" />
+      <project id="bdd" values="WEB_MODULE" />
+    </group>
+    <group name="php-include-path">
+      <project id="simitive" values="0" />
+      <project id="dashboard" values="0" />
+      <project id="zf-apigility-skeleton" values="0" />
+      <project id="custom" values="0" />
+      <project id="bdd" values="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="8" />
+      <entry feature="NewDirectoryProjectAction.Drupal Module" count="1" />
+      <entry feature="NewDirectoryProjectAction.PHP Empty Project" count="1" />
+      <entry feature="ide.settings.Appearance" count="11" />
+      <entry feature="ide.settings.Code_Style" count="5" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="27" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.Deployment" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="18" />
+      <entry feature="ide.settings.Font" count="11" />
+      <entry feature="ide.settings.General" count="9" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.Keymap" count="22" />
+      <entry feature="ide.settings.Live_Templates" count="13" />
+      <entry feature="ide.settings.Options" count="1" />
+      <entry feature="ide.settings.PHP" count="14" />
+      <entry feature="ide.settings.SSH_Terminal" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ideaapp.started" count="20" />
+      <entry feature="tips.of.the.day.next" count="11" />
+    </counts>
+  </component>
+</application>

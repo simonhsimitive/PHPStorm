@@ -1,0 +1,39 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>ig_core_initial</find>
+      <find>this-&gt;users</find>
+      <find>internal</find>
+      <find>DashboardController</find>
+      <find>clienc</find>
+      <find>initial</find>
+      <find>ig_core_initia</find>
+      <find>ig_core_initi</find>
+      <find>ig_core_init</find>
+      <find>use a week§</find>
+      <find>use a week</find>
+      <find>use your notes area</find>
+      <find>possessive</find>
+      <find>my_comment</find>
+      <find>waiting_for_reviewer_wording</find>
+      <find>ig:review</find>
+      <find>ig:review§</find>
+      <find>jpg jpeg gif png txt doc docx xls xlsx pdf ppt pps odt ods odp xps mht</find>
+      <find>field_update_instance</find>
+      <find>field_update_field</find>
+      <find>field_update_in</find>
+      <find>use a weekly</find>
+      <find>ig_alerts_weekly_digest</find>
+      <find>Use your notes area to recor</find>
+      <find>wams_allocation_details_overlay_ajax</find>
+      <find>allocation-information</find>
+      <find>@</find>
+      <find>wams_development_site</find>
+      <find>dev</find>
+      <find>set-value</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Projects/dashboard/dashboard/public</dir>
+    </dirStrings>
+  </component>
+</application>

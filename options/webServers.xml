@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dbb38540-6a0a-4ec2-8b45-749811c46531" name="simitive" url="http://localhost">
+        <fileTransfer mountedRoot="$USER_HOME$/Projects/aws-dev" accessType="MOUNT" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
